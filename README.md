@@ -4,17 +4,19 @@ Uma fake API para uma aplicação de notícias
 
 Para iniciar está API, realize o clone deste repositório e rode os seguintes comandos
 
+
+*Baixar dependências*
 ```bash
 npm install
+/* Necessário somente uma vez, para realizar o download das dependências */
 ```
 
-(Necessário somente uma vez, para realizar o download das dependências)
-
+*Rodar projeto locamente*
 ```bash
 npm run start
 ```
 
-Para iniciar a API localmente na porta 3001
+
 
 ## ROTAS
 
