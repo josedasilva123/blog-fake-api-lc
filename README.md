@@ -4,19 +4,18 @@ Uma fake API para uma aplicação de notícias
 
 Para iniciar está API, realize o clone deste repositório e rode os seguintes comandos
 
+_Baixar dependências_
 
-*Baixar dependências*
 ```bash
 npm install
 /* Necessário somente uma vez, para realizar o download das dependências */
 ```
 
-*Rodar projeto localmente*
+_Rodar projeto localmente_
+
 ```bash
 npm run start
 ```
-
-
 
 ## ROTAS
 
@@ -96,6 +95,7 @@ Padrão de resposta
 
 ```json
 {
+  "id": 1,
   "postId": 1,
   "author": "Osvaldo",
   "text": "Integer vitae blandit nulla. Nunc dictum purus a rutrum vehicula."
