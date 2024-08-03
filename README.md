@@ -11,7 +11,7 @@ npm install
 /* Necessário somente uma vez, para realizar o download das dependências */
 ```
 
-*Rodar projeto locamente*
+*Rodar projeto localmente*
 ```bash
 npm run start
 ```
