@@ -102,7 +102,7 @@ Padrão de resposta
 }
 ```
 
-### Comentários /posts/:id/comments GET - Leitura múltipla (comentários por categoria)
+### Comentários /posts/:id/comments GET - Leitura múltipla (comentários por post)
 
 Padrão de resposta
 
